@@ -1,9 +1,7 @@
-# NFL Project
+# Predicting score of NFL games based off of halftime stats
 Intro to Machine Learning Project
 
-Group: Wolves of Howard Street
-
-Members: Eddie Owens, Darren Thomas, Brian Wright, Tyler Ursuy
+Contributing Members: Eddie Owens, Darren Thomas, Brian Wright, Tyler Ursuy
 
 To get dataset: 
 1. Download NFL play by play data here: https://www.kaggle.com/maxhorowitz/nflplaybyplay2009to2016#NFL%20Play%20by%20Play%202009-2017%20(v4).csv
